@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:#15202B ;
+    display: flex;
+    justify-content: center;
+}
+    
+.c-home {
+    margin-left: 245px;
+    margin-top: 47px;
+}
+    
+.c-home .scroller {
+    width: 10px;
+    height: 20px;
+}
+
+.c-home .filter-btn {
+    margin-top: 20px;
+    width: auto;
+    height: 34px;
+    background-color: #007BFF;
+    border-radius: 4px;
+    font-size: 16px;
+    color: white;
+}
+
+    

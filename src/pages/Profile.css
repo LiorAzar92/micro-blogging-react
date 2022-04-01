@@ -1,0 +1,80 @@
+
+
+.c-profile form {
+    margin-top: 26px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.c-profile p {
+    margin-left: 245px;
+    margin-top: 52px;
+    color: white;
+    font-size: 36px;
+    font-weight: 400px;
+    text-align: left;
+}
+
+.c-profile label {
+    text-align: left;
+    margin-left: 245px;
+    color: white;
+    font-size: 18px;
+}
+
+.c-profile input {
+    padding-left: 16px;
+    color: white;
+    font-size: 16px;
+    width: 600px;
+    height: 61px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 6px;
+    margin-bottom: 18px;
+    background-color: #15202B;
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+}
+
+.c-profile button {
+    align-self: flex-end;
+    margin-right: 245px;
+    width: 68px;
+    height: 34px;
+    background-color: #007BFF;
+    border-radius: 4px;
+    font-size: 16px;
+    color: white;
+}
+
+.c-profile .pic-update {
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.c-profile .profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+input[type="file"] {
+    display: none;
+    
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    width: 200px;
+    margin-right: 100px;
+}
+
+.upload {
+    margin-left: 5px;
+}

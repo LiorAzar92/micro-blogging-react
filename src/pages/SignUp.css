@@ -1,0 +1,50 @@
+.c-signup {
+    display: flex;
+    justify-content: center;
+    background-color: #15202B;
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-bottom: 40px;
+}
+
+.c-signup input {
+    padding-left: 3px;
+    color: #CCCCCC;
+    font-size: 16px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    background-color: #15202B;
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+}
+
+.c-signup label {
+    text-align: left;
+    color: white;
+    font-size: 16px;
+}
+
+.c-signup p {
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+.c-signup button {
+    display: flex;
+    cursor: pointer;
+    margin: auto;
+    padding: 10px;
+    background-color: #CCCCCC;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #343A40;
+    margin-top: 20px;
+}
